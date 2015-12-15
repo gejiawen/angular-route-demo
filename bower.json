@@ -1,0 +1,22 @@
+{
+  "name": "angular-route-demo",
+  "description": "a demo for ngRoute",
+  "main": "index.js",
+  "authors": [
+    "gejiawen <806717031@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/gejiawen/angular-route-demo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8"
+  }
+}

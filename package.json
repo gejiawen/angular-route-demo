@@ -1,0 +1,23 @@
+{
+  "name": "angular-route-demo",
+  "version": "1.0.0",
+  "description": "a demo for ngRoute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gejiawen/angular-route-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gejiawen/angular-route-demo/issues"
+  },
+  "homepage": "https://github.com/gejiawen/angular-route-demo#readme",
+  "devDependencies": {
+    "bower": "^1.7.1"
+  }
+}
