@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>angular route demo</title>
+    <script src="../bower_components/angular/angular.js"></script>
+    <script src="../bower_components/angular-route/angular-route.js"></script>
+    <script src="home.js"></script>
+    <script src="post.js"></script>
+    <script src="about.js"></script>
+    <script src="index.js"></script>
+</head>
+<body ng-app="demo002" ng-controller="Demo">
+    <h1>Angular Route Demo</h1>
+    <hr>
+    <div>
+        <a href="#/home">home</a>&nbsp;&nbsp;
+        <a href="#/post">post</a>&nbsp;&nbsp;
+        <a href="#/about">about</a>
+    </div>
+    <hr>
+    <div ng-view></div>
+</body>
+</html>
+
